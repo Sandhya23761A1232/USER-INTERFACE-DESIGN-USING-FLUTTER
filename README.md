@@ -15,3 +15,16 @@ Displays a profile picture, name, and designation.
 Uses Cards, Rows, and Columns for layout.
 Includes contact information with icons.
 Minimal and beginner-friendly Flutter project.
+
+
+----------Flutter Hello App---------
+This is a simple Flutter application that displays a personalized greeting message. The app demonstrates the basics of Flutter, including widget structure, UI design with Scaffold, and dynamic text rendering.
+Key Features:
+  Displays "Hello" with a given name.
+  Built using StatelessWidget and MaterialApp.
+  Serves as an introductory project for understanding Flutter application structure.
+Tech Stack:
+  Framework: Flutter
+  Language: Dart
+Learning Outcome:
+  This project is a beginner-friendly example to get started with Flutter app development and understand how to build simple UIs with customizable text.
